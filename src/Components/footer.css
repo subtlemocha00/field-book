@@ -1,0 +1,8 @@
+.footer {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  /* width: 50%; */
+  background-color: bisque;
+  padding: 1rem;
+}

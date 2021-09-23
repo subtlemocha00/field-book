@@ -1,0 +1,40 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1rem;
+  background-color: rgb(255, 244, 227);
+}
+.inputBox {
+  background-color: rgb(183, 253, 230);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin: 1rem;
+}
+.entry {
+  display: flex;
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.25rem;
+  list-style: none;
+  background-color: rgb(161, 255, 255);
+  border: 2px solid rgb(172, 172, 172);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+.entryList {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.text {
+  text-align: left;
+  margin-right: 1rem;
+}
+.btn {
+  background-color: rgb(230, 195, 122);
+  margin: 0.25rem;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+}
